@@ -119,5 +119,7 @@ flowchart LR
 [![Dev.to Logo](https://skillicons.dev/icons?i=devto&theme=light)](https://dev.to/h_sifat)
 [![Stackoverflow Logo](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://stackoverflow.com/users/15236761/h-sifat)
 <a href="https://hackerrank.com/h_sifat"> <img src="./icons/hackerrank.svg" width="46"> </a>
+<a href="https://www.npmjs.com/~h_sifat"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="55"> </a>
+[![Codepen Logo](https://skillicons.dev/icons?i=codepen&theme=light)](https://codepen.io/h-sifat/)
 
 **Email:** reach@sifat.cc
