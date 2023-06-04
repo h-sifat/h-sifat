@@ -2,10 +2,10 @@
 
 #### I am
 
-- a full-stack (backend-heavy) JavaScript/Typescript developer currently working
-  on the MERN stack.
+- a full-stack JavaScript/Typescript developer currently working on the MERN
+  stack.
 - a hardcore GNU/Linux user and I literally live in the terminal emulator.
-- a supporter of open-source and privacy-respecting software.
+- an advocate of open-source and privacy-respecting software.
 - passionate about low-level stuff and knowing how things work under the hood.
 - a quick lerner and always striving to become a better programmer.
 
@@ -16,9 +16,14 @@
 - Operating System: PopOS
 - Programming language: TypeScript
 - Authors: Robert C. Martin, Kyle Simpson (YDKJS) ...
-- Tutors: [Mosh Hamedani](https://codewithmosh.com), [Samer Buna](https://samer.dev/), [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos) ...
-- Tech personalities: Richard Stallman, Linus Torvalds, [Denis Pushkarev (the author of core.js)](https://github.com/zloirock) ...
-- YouTube channels: Ben Eater, 3Blue1Brown, Hussein Nasser, suckerpinch, MIT OpenCourseWare, Veritasium ...
+- Tutors: [Mosh Hamedani](https://codewithmosh.com),
+  [Samer Buna](https://samer.dev/),
+  [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos)
+  ...
+- Tech personalities: Richard Stallman, Linus Torvalds,
+  [Denis Pushkarev (the author of core.js)](https://github.com/zloirock) ...
+- YouTube channels: Ben Eater, 3Blue1Brown, Hussein Nasser, suckerpinch, MIT,
+  OpenCourseWare, Veritasium ...
 
 ## Skills
 
@@ -30,9 +35,9 @@
 
 #### Frontend
 
-| **Good at**                                                       | **Familiar with**                                                              |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| ![My Skills](https://skillicons.dev/icons?i=html,css&theme=light) | ![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap&theme=light) |
+| **Good at**                                                             | **Familiar with**                                                        |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| ![My Skills](https://skillicons.dev/icons?i=html,css,react&theme=light) | ![My Skills](https://skillicons.dev/icons?i=redux,bootstrap&theme=light) |
 
 #### Backend
 
@@ -118,8 +123,14 @@ flowchart LR
 
 [![Dev.to Logo](https://skillicons.dev/icons?i=devto&theme=light)](https://dev.to/h_sifat)
 [![Stackoverflow Logo](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://stackoverflow.com/users/15236761/h-sifat)
-<a href="https://hackerrank.com/h_sifat"> <img src="./icons/hackerrank.svg" width="46"> </a>
-<a href="https://www.npmjs.com/~h_sifat"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="55"> </a>
+<a href="https://hackerrank.com/h_sifat">
+<img src="./icons/hackerrank.svg" width="46"></a>
+<a href="https://www.npmjs.com/~h_sifat">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="55">
+</a>
 [![Codepen Logo](https://skillicons.dev/icons?i=codepen&theme=light)](https://codepen.io/h-sifat/)
+<a href="https://play.picoctf.org/users/h_sifat">
+<img src="./icons/picoctf.svg" width="150">
+</a>
 
 **Email:** reach@sifat.cc
