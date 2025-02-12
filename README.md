@@ -2,66 +2,58 @@
 
 #### I am
 
-- a full-stack JavaScript/Typescript developer currently working on the MERN
-  stack.
-- a hardcore GNU/Linux user and I literally live in the terminal emulator.
-- an advocate of open-source and privacy-respecting software.
-- passionate about low-level stuff and knowing how things work under the hood.
-- a quick lerner and always striving to become a better programmer.
+- A full-stack JavaScript/TypeScript developer currently working with Svelte and Node.js.
+- A hardcore GNU/Linux user—I practically live in the terminal.
+- An advocate for open-source and privacy-respecting software.
+- Passionate about low-level programming and understanding how things work under the hood.
+- A quick learner, always striving to become a better programmer.
 
 #### My favorite
 
 - Shell: ZSH
 - Code editor: NeoVim
 - Operating System: PopOS
-- Programming language: TypeScript
+- Programming languages: Rust, TypeScript
 - Authors: Robert C. Martin, Kyle Simpson (YDKJS) ...
 - Tutors: [Mosh Hamedani](https://codewithmosh.com),
-  [Samer Buna](https://samer.dev/),
+  [Samer Buna](https://jscomplete.com/),
   [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos)
   ...
 - Tech personalities: Richard Stallman, Linus Torvalds,
-  [Denis Pushkarev (the author of core.js)](https://github.com/zloirock) ...
-- YouTube channels: Ben Eater, 3Blue1Brown, Hussein Nasser, suckerpinch, MIT,
-  OpenCourseWare, Veritasium ...
+  [Denis Pushkarev (the author of core.js)](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md) ...
+- YouTube channels: Ben Eater, 3Blue1Brown, Hussein Nasser, MIT OpenCourseWare, Veritasium, Real Engineering...
 
 ## Skills
 
 #### Programming Languages
 
-| **Good at**                                                    | **Familiar with**                                                 |
-| -------------------------------------------------------------- | ----------------------------------------------------------------- |
-| ![My Skills](https://skillicons.dev/icons?i=js,ts&theme=light) | ![My Skills](https://skillicons.dev/icons?i=java,cpp&theme=light) |
+| **Good at**                                                    | **Familiar with**                                                                   |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ![JS and TS](https://skillicons.dev/icons?i=js,ts&theme=light) | ![Other langs](https://skillicons.dev/icons?i=rust,python,lua,java,cpp&theme=light) |
 
 #### Frontend
 
-| **Good at**                                                             | **Familiar with**                                                        |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| ![My Skills](https://skillicons.dev/icons?i=html,css,react&theme=light) | ![My Skills](https://skillicons.dev/icons?i=redux,bootstrap&theme=light) |
+| **Good at**                                                                       | **Familiar with**                                                       |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| ![My Skills](https://skillicons.dev/icons?i=html,css,svelte,tailwind&theme=light) | ![My Skills](https://skillicons.dev/icons?i=react,redux,d3&theme=light) |
 
 #### Backend
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)
+| **Good at**                                                             | **Familiar with**                                                |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| ![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light) | ![My Skills](https://skillicons.dev/icons?i=fastapi&theme=light) |
 
 #### Databases
 
-![My Skills](https://skillicons.dev/icons?i=mongo,mysql,sqlite&theme=light)
+![My Skills](https://skillicons.dev/icons?i=mongo,mysql,postgres,sqlite&theme=light)
 
 #### Other
 
-![My Skills](https://skillicons.dev/icons?i=linux,neovim,git,docker,jest,webpack,md,regex,github&theme=light)
+![My Skills](https://skillicons.dev/icons?i=linux,neovim,git,docker,vitest,jest,webpack,md,regex,github&theme=light)
 
 #### Learning
 
-I'm currently learning **Distributed systems with Node.js.**
-
-**Current Learning Path:**
-
-```mermaid
-flowchart LR
-    B(Computer Networking)-->x(HTTP Content Security Policy)-->A(CI/CD with Github Actions)-->C(Nginx)-->D(Redis)-->E(Kubernates)-->F(...)
-    style B stroke:#37f63d,stroke-width:4px
-```
+I'm currently learning **Rust and Distributed systems with Node.js.**
 
 ## Projects
 
@@ -71,6 +63,7 @@ flowchart LR
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Techland <img src="https://img.shields.io/badge/-Work%20In%20Progress-green" style="vertical-align: middle;"> | An e-commerce application. [Backend](https://github.com/h-sifat/techland-backend), [Frontend](https://github.com/h-sifat/techland-frontend) |
 | [word-unscrambler-visualizer](https://github.com/h-sifat/word-unscrambler-visualizer)                         | Word unscrambling algorithm visualizer.                                                                                                     |
+| [Word Unscrambler](https://github.com/h-sifat/word-unscrambler) **(Rust, Svelte)**                            | A simple word unscrambling application                                                                                                      |
 
 #### Library / Frameworks
 
@@ -81,6 +74,7 @@ flowchart LR
 | [handy-types](https://github.com/h-sifat/handy-types)                     | A cool little validation/assertion library.                      |
 | [char-series](https://github.com/h-sifat/char-series)                     | A CLI/Library to generate character series.                      |
 | [permcon](https://github.com/h-sifat/permcon)                             | A CLI/library to convert and analyze Unix file permission.       |
+| [permcon](https://github.com/h-sifat/permcon-rust) **(Rust version)**     | A CLI/library to convert and analyze Unix file permission.       |
 
 #### CLI/TUI
 
@@ -118,6 +112,10 @@ flowchart LR
 - [M103: Basic Cluster Administration](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/ce591601-0dd0-5548-b66b-9e900465c37e-sifat-hossain-ebe6164d-7d9f-5d7e-a3fc-f1a8abc05d3d-certificate.pdf)
 - [M220JS: MongoDB for JavaScript Developers](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/ce591601-0dd0-5548-b66b-9e900465c37e-sifat-hossain-65429619-20a3-5352-9128-944c94b1e0b5-certificate.pdf)
 - [M121: The MongoDB Aggregation Framework](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/ce591601-0dd0-5548-b66b-9e900465c37e-sifat-hossain-3e86a87e-edf1-5431-aa9e-e6785dda2c0a-certificate.pdf)
+
+## Education
+
+Bachelor’s Degree in Computer Science – [Goldsmiths, University of London](https://www.gold.ac.uk/) (2024–Present)
 
 ## Links
 
